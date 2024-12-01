@@ -1,12 +1,12 @@
 # SpectraX - Scraper de Scantrad Français
 
-**SpectraX** est un scraper automatique conçu pour télécharger des chapitres de scantrad français depuis plusieurs sites populaires. Il contourne les protections **Cloudflare** et **Turnstile**, et gère le décryptage des chapitres pour **JapScan**.
+**SpectraX** est un scraper automatique conçu pour télécharger des chapitres de scantrad français depuis plusieurs sites populaires. Il contourne les protections **Cloudflare** et **Turnstile**, et gère le déchiffrage des chapitres pour **JapScan**.
 
 ## Fonctionnalités
 
 - **Support de 20 sites** de scantrad français.
 - **Bypass Cloudflare et Turnstile** pour un scraping sans blocage.
-- **Décryptage automatique pour JapScan**.
+- **Déchiffrage automatique pour JapScan**.
 - **Téléchargement organisé** des chapitres avec images `.jpg` et archivage en `.zip`.
 - **CrunchyScan** : Support en développement, sera ajouté dans une future mise à jour.
 - **Auto-upload pour webmasters** : Fonctionnalité à venir pour uploader automatiquement les chapitres téléchargés sur les sites des webmasters.
