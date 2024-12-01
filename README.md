@@ -13,13 +13,16 @@
 
 ## Installation
 
-1. Téléchargez **SpectraX.exe** :  Bientôt
+1. Téléchargez **SpectraX.exe** :  [ICI](https://github.com/OnyxParse/SpectraX/blob/main/SpectraX.exe)
 
 2. **Lancez le fichier** en double-cliquant dessus. Aucun logiciel supplémentaire n'est requis.
 
 ## Utilisation
 
 Après avoir lancé **SpectraX.exe**, l'application démarre automatiquement en interface **CMD**. Vous serez guidé à travers quelques questions simples pour choisir le site et les chapitres à télécharger. Le reste est automatisé.
+
+![image](https://github.com/user-attachments/assets/e849e50f-2819-4867-a429-ce0e065e99b2)
+![image](https://github.com/user-attachments/assets/e3728df6-ac69-4e66-a6a7-05049af8b7a5)
 
 ## Sites Supportés
 
