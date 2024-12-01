@@ -1,0 +1,5 @@
+{
+    "MAX_CONCURRENT_DOWNLOADS": 15,
+    "DOWNLOAD_DIR": "download/",
+    "ARCHIVES_DIR": "archives/"
+}
